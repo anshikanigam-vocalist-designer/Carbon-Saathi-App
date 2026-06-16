@@ -1,0 +1,6 @@
+{
+  "name": "Carbon Saathi",
+  "description": "Carbon Saathi – har roz ke chhote steps, bada climate impact.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
